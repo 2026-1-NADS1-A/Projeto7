@@ -1,7 +1,8 @@
 # Projeto7
 Projeto 7
 
-#Integrantes
+# Integrantes
+
 Vinicius de Lima Borges
 Eric Carvalho
 Douglas Silva Gadelha Macario
