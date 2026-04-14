@@ -19,7 +19,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: Vinicius de Lima Borges, Eric Carvalho, Douglas Silva Gadelha Macario e Gustavo Cocoloti Melo
 
-## Professores Orientadores: Aimar Martins Lopes
+## Professores Orientadores: [https://www.linkedin.com/in/aimarlopes/Aimar Martins Lopes](https://www.linkedin.com/in/aimarlopes/)
 
 ## Descrição
 
