@@ -21,7 +21,8 @@ Vide tutoriais do PI.
 
 ## Professores Orientadores: [https://www.linkedin.com/in/aimarlopes/Aimar Martins Lopes](https://www.linkedin.com/in/aimarlopes/)
 
-## Descrição
+## Descrição 
+Este projeto tem como finalidade unir conhecimentos de banco de dados, lógica de programação, desenvolvimento em C# e modelagem de sistemas, por meio da criação de soluções práticas acompanhadas de uma documentação bem estruturada.
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
