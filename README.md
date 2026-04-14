@@ -22,20 +22,13 @@ Vide tutoriais do PI.
 ## Professores Orientadores: [https://www.linkedin.com/in/aimarlopes/Aimar Martins Lopes](https://www.linkedin.com/in/aimarlopes/)
 
 ## Descrição 
-Este projeto tem como finalidade unir conhecimentos de banco de dados, lógica de programação, desenvolvimento em C# e modelagem de sistemas, por meio da criação de soluções práticas acompanhadas de uma documentação bem estruturada.
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+Este projeto tem como finalidade integrar e consolidar conhecimentos nas áreas de banco de dados, lógica de programação, desenvolvimento em C# e modelagem de sistemas. Para isso, propõe a criação de soluções práticas que simulem situações reais, permitindo a aplicação dos conceitos de forma concreta. Além disso, contempla a elaboração de uma documentação estruturada, clara e organizada, com o objetivo de registrar todo o processo de desenvolvimento e facilitar o entendimento e a manutenção do sistema.
 
 ## 🛠 Estrutura de pastas
 
