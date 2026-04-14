@@ -19,7 +19,12 @@ Vide tutoriais do PI.
 
 ## Integrantes: Vinicius de Lima Borges, Eric Carvalho, Douglas Silva Gadelha Macario e Gustavo Cocoloti Melo
 
-## Professores Orientadores: <br><a href="https://www.linkedin.com/in/remuniz/" target="_blank" rel="noopener noreferrer"> Renata Muniz do Nascimento </a>
+## Professores Orientadores: 
+<br><a href="https://www.linkedin.com/in/remuniz/" target="_blank" rel="noopener noreferrer"> Renata Muniz do Nascimento </a> 
+<br><a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/" target="_blank" rel="noopener noreferrer"> Eduardo Savino Gomes </a> 
+<br><a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/" target="_blank" rel="noopener noreferrer"> Ronaldo Araujo Pinto </a> 
+<br><a href="https://www.linkedin.com/in/aimarlopes/" target="_blank" rel="noopener noreferrer"> Aimar Martins Lopes </a>
+<br><a href="https://www.linkedin.com/in/lucymari/" target="_blank" rel="noopener noreferrer"> Lucy Mari Tabuti</a>
 ## Descrição 
 
 <p align="center">
