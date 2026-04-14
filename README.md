@@ -19,7 +19,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: Vinicius de Lima Borges, Eric Carvalho, Douglas Silva Gadelha Macario e Gustavo Cocoloti Melo
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Aimar Martins Lopes
 
 ## Descrição
 
