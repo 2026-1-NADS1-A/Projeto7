@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eric\\Documents\\GitHub\\Projeto7\\documentos\\Entrega_01\\Redes_de_Computadores\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj": {}
+    "C:\\Users\\Eric\\Desktop\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eric\\Documents\\GitHub\\Projeto7\\documentos\\Entrega_01\\Redes_de_Computadores\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj": {
+    "C:\\Users\\Eric\\Desktop\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eric\\Documents\\GitHub\\Projeto7\\documentos\\Entrega_01\\Redes_de_Computadores\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj",
+        "projectUniqueName": "C:\\Users\\Eric\\Desktop\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj",
         "projectName": "PI.REDES(Douglas,Erik,Gustavo,Vinicius)",
-        "projectPath": "C:\\Users\\Eric\\Documents\\GitHub\\Projeto7\\documentos\\Entrega_01\\Redes_de_Computadores\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj",
+        "projectPath": "C:\\Users\\Eric\\Desktop\\1 Entrega PI\\PI.REDES(Douglas,Erik,Gustavo,Vinicius).csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eric\\Documents\\GitHub\\Projeto7\\documentos\\Entrega_01\\Redes_de_Computadores\\1 Entrega PI\\obj\\",
+        "outputPath": "C:\\Users\\Eric\\Desktop\\1 Entrega PI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config",

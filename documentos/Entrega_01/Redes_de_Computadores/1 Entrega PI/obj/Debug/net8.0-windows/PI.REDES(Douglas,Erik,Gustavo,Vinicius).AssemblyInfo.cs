@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PI.REDES(Douglas,Erik,Gustavo,Vinicius)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+585b3f4289bad80db536db4bffdeb859f711752a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5a82fb6c012e09859c1ac7155e385be6b302b4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PI.REDES(Douglas,Erik,Gustavo,Vinicius)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PI.REDES(Douglas,Erik,Gustavo,Vinicius)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
