@@ -1,0 +1,36 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+
+# Build outputs
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish
+publish/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Do NOT ignore project source or Forms — keep source files and Designer files in repo
+# If you have recovered backups in `Recovered/` you can keep them; they are included as None items in the .csproj
